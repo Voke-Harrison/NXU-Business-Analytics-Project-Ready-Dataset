@@ -29,7 +29,7 @@ The project uses **six CSV files** containing customer and service information:
 - Telco_customer_churn_services.csv
 - Telco_customer_churn_status.csv
 
-Each file contains unique and overlapping attributes, joined by `Customer ID` and `Zip Code`.
+Each file contains unique and overlapping attributes, joined by Customer ID and Zip Code.
 
 ---
 
