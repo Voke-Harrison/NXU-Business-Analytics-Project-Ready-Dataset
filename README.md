@@ -22,12 +22,12 @@ We perform the following tasks:
 
 The project uses **six CSV files** containing customer and service information:
 
-- `Telco_customer_churn.csv`
-- `Telco_customer_churn_demographics.csv`
-- `Telco_customer_churn_location.csv`
-- `Telco_customer_churn_population.csv`
-- `Telco_customer_churn_services.csv`
-- `Telco_customer_churn_status.csv`
+- Telco_customer_churn.csv
+- Telco_customer_churn_demographics.csv
+- Telco_customer_churn_location.csv
+- Telco_customer_churn_population.csv
+- Telco_customer_churn_services.csv
+- Telco_customer_churn_status.csv
 
 Each file contains unique and overlapping attributes, joined by `Customer ID` and `Zip Code`.
 
